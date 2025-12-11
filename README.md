@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Divyam👋
 
 ### 🔭 I’m currently working on
 My sister's website

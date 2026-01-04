@@ -4,7 +4,7 @@
 My sister's website
 
 ### 🌱 I’m currently learning
-Node.js
+React and Tailwind CSS
 
 ### 🤝 I’m looking to collaborate on
 I'm hoping to collaborate with companies who need a Frontend Developer.

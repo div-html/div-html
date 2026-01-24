@@ -22,7 +22,6 @@ I'm looking for opportunities to contribute as a **Frontend Developer** and coll
 ---
 
 ### 🛠️ Featured Projects
-* **[Sister's Website Name]** - A modern web application built with React and styled with Tailwind CSS.
 * **Pomodoro Timer** - A productivity tool built with JavaScript and custom CSS layouts.
 
 ---

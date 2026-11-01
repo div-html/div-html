@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,45:6D28D9,100:22D3EE&height=210&section=header&text=Hello,+World.&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=I+am+Akio&descSize=26&descAlignY=62&descColor=39FF14" width="100%" alt="Hello, World. I am Divyam" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,45:6D28D9,100:22D3EE&height=210&section=header&text=Hello,+World.&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=I+am+Divyam&descSize=26&descAlignY=62&descColor=39FF14" width="100%" alt="Hello, World. I am Divyam" />
 
 <h1>Divyam</h1>
 

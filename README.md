@@ -10,11 +10,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,45:6D28D9,100:22D3EE&height=210&section=header&text=Hello,+World.&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=I+am+Akio&descSize=26&descAlignY=62&descColor=39FF14" width="100%" alt="Hello, World. I am Akio" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,45:6D28D9,100:22D3EE&height=210&section=header&text=Hello,+World.&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=I+am+Akio&descSize=26&descAlignY=62&descColor=39FF14" width="100%" alt="Hello, World. I am Divyam" />
 
-<h1>AKIO</h1>
+<h1>Divyam</h1>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/div-html">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=50&lines=Developer;Machine+Learning+Enthusiast;Python+Programmer;Data+Science+Explorer;DSA+Practitioner;React+Developer;Building+Something+Cool" alt="Typing animation: Developer, Machine Learning Enthusiast, Python Programmer, Data Science Explorer, DSA Practitioner, React Developer, Building Something Cool" />
 </a>
 
@@ -34,22 +34,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=600&color=39FF14&center=true&vCenter=true&width=520&height=30&repeat=false&lines=%3E+initializing+developer+profile...;%3E+loading+modules%3A+python+%7C+react+%7C+ml+%7C+dsa;%3E+status%3A+ready" alt="Terminal boot sequence animation" />
 </div>
-
-```bash
-akio@github:~$ whoami
-> Akio — developer, student of machine learning, problem solver in training
-
-akio@github:~$ cat about.txt
-> Building software and learning how intelligent systems actually work.
-> Practicing DSA to sharpen how I think, not just what I code.
-> Turning raw data into insight with Python, Pandas, NumPy, Matplotlib, Seaborn.
-> Shipping real-world work: freelance for SBECO, and a NASA Hackathon LLM project.
-
-akio@github:~$ ls ./currently
-> sbeco_freelance/   machine_learning/   dsa_practice/   data_analysis/
-
-akio@github:~$ _
-```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:22D3EE,100:39FF14&height=2&section=header" width="100%" alt="" />
 
@@ -73,13 +57,6 @@ I also took part in a **NASA Hackathon**, where my team built an **LLM-based app
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=100&color=A855F7&center=true&vCenter=true&width=480&height=40&repeat=false&lines=%2F%2F+02+%E2%80%94+WHAT+I'M+UP+TO" alt="02 What I'm up to" />
 </div>
 
-```diff
-+ [ACTIVE]   Building a freelance project for SBECO with a friend
-+ [LEARNING] Machine Learning — how intelligent systems learn and decide
-+ [DAILY]    Practicing Data Structures & Algorithms consistently
-+ [EXPLORE]  Data analysis & visualization with Python, Pandas, NumPy, Matplotlib, Seaborn
-+ [GROWING]  Improving software development skills, one project at a time
-```
 
 <div align="center">
 <table>
@@ -344,13 +321,10 @@ beyond_the_code:
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-YOUR__USERNAME-0A0A0F?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0F&color=A855F7" alt="GitHub" /></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0F&color=22D3EE" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-REACH_OUT-0A0A0F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0F&color=39FF14" alt="Email" /></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-VISIT-0A0A0F?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0A0F&color=A855F7" alt="Portfolio" /></a>
+<a href="https://github.com/div-html"><img src="https://img.shields.io/badge/GitHub-div-html-0A0A0F?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0F&color=A855F7" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/divyam-pariyar-99303a371/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0F&color=22D3EE" alt="LinkedIn" /></a>
+<a href="mailto:pariyardivyam67@gmail.com"><img src="https://img.shields.io/badge/Email-REACH_OUT-0A0A0F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0F&color=39FF14" alt="Email" /></a>
 <br/>
-<a href="YOUR_OTHER_PLATFORM_URL"><img src="https://img.shields.io/badge/LeetCode-ADD_LINK-0A0A0F?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0A0A0F&color=22D3EE" alt="LeetCode (placeholder)" /></a>
-<a href="YOUR_KAGGLE_URL"><img src="https://img.shields.io/badge/Kaggle-ADD_LINK-0A0A0F?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0A0A0F&color=39FF14" alt="Kaggle (placeholder)" /></a>
 
 </div>
 

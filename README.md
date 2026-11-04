@@ -1,4 +1,4 @@
-<p align="center"><img width="70%" src="https://i.pinimg.com/736x/8c/99/20/8c992095bc5138542f7923f8679cac15.jpg"></p>
+<p align="center"><img width="70%" src="https://i.pinimg.com/736x/8c/a2/be/8ca2bea995566010e544319ed6d09568.jpg"></p>
 
 <!-- ⚠️ Replace the two banner images below with your own (upload them to your div-html/div-html repo) -->
 
